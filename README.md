@@ -5,9 +5,9 @@
 ​
 <h3>ﾟ･✧🍭・Atualmente tenho um pouco de domínio apenas em JS, HTML e CSS.</h3>
  ​ ​<p align="center" >
-     <img src="https://i.imgur.com/vZz7e31.png" height="40"/>
-     <img src="https://i.imgur.com/wBffebI.png" height="40"/>
-     <img src="https://i.imgur.com/qYKQJB5.png" height="40"/> 
+     <img src="https://i.imgur.com/6xyBInw.png" height="50"/>
+     <img src="https://i.imgur.com/C1Emo19.png" height="50"/>
+     <img src="https://i.imgur.com/yPk2XC8.png" height="50"/> 
  ​</p>
 
 <h3>ﾟ･✧🍬・Me chama no discord lá pra mim te roubar. Digo... Pra nois bater um papo Chuernoux!</h3>
