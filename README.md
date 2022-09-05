@@ -12,9 +12,9 @@
 
 <h3>ﾟ･✧🍬・Me chama no discord lá pra mim te roubar. Digo... Pra nois bater um papo Chuernoux!</h3>
  ​<p align="center" > 
-      𝒜𝓊𝒷𝓇ℯ𝓎㋛#2981
+      Aubrey#2981
  ​    <img src="https://discord.c99.nl/widget/theme-4/500383265836892161.png" /> 
- ​     Se quiser me dar um nitro eu aceito 👉👈
+
 </p>
 
 <h2>ﾟ･✧🍡・Informações de merda que ninguém liga: </h2>
