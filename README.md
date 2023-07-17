@@ -12,13 +12,14 @@
 
 <h3>ﾟ･✧🍬・Me chama no discord lá pra mim te roubar. Digo... Pra nois bater um papo Chuernoux!</h3>
  ​<p align="center" > 
-      Aubrey#2981
+     misss_aubrey
+     <br>
  ​    <img src="https://discord.c99.nl/widget/theme-4/500383265836892161.png" /> 
-
 </p>
 
 <h2>ﾟ･✧🍡・Informações de merda que ninguém liga: </h2>
  ​<p align="center" > 
  ​    <img src="https://github-readme-stats.vercel.app/api?username=AubreyFBG&show_icons=true&theme=dark" /> 
+      <br>
  ​    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AubreyFBG&layout=compact&theme=dark" /> 
 </p>
