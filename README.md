@@ -15,6 +15,7 @@
      misss_aubrey
      <br>
  ​    <img src="https://discord.c99.nl/widget/theme-4/500383265836892161.png" /> 
+ ​    <img src="http://mistysync.online/users/500383265836892161?createImage=true" /> 
 </p>
 
 <h2>ﾟ･✧🍡・Informações de merda que ninguém liga: </h2>
